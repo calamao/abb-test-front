@@ -9,6 +9,7 @@ module.exports = {
   extends: ['react-app', 'prettier', 'prettier/react'],
   plugins: ['prettier'],
   rules: {
+    'linebreak-style': 'off',
     'prettier/prettier': ['error', prettierOptions],
   },
   overrides: [
