@@ -1,3 +1,13 @@
+## Intro
+This is an assignment from [ABB Digital Accelerator](https://new.abb.com/products/robotics/es/customer-innovation-center) in the search for a fullstack developer in the React-NodeJS stack.
+
+**This is the frontend repository** of the assigment.
+
+---
+
+Both repositories (Frontend and Backend) can be found here:
+* ⚙️**Backend repo** go to [backend repo](https://github.com/calamao/abb-test-back)
+* 🌏**Frontend repo** go to [web-app repo](https://github.com/calamao/abb-test-front)
 
 ---
 
