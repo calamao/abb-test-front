@@ -43,9 +43,6 @@ npm start
 ## Next Steps
 This is the 'unified' `next steps section` for the Frontend and the Backend app.
 
-The corresponding backend for this frontend is in here:
-* 🌏**backend repo** go to [backend repo](https://github.com/calamao/abb-test-back)
-
 This next steps section is a list of missing features, TODOs in the code or just missalignments with the specified features in the test.
 
 Next steps functionality
